@@ -2,6 +2,10 @@
 title: Scoop常用命令
 published: 2025-02-08
 description: Scoop常用命令
+tags: [Scoop, Windows]
+category: Front-end
+draft: false
+lang: zh_CN
 ---
 
 ### 清除缓存
