@@ -1,7 +1,7 @@
 ---
 title: 浏览器设置黑色背景
 published: 2025-02-10
-description: 
+description: 浏览器设置黑色背景
 tags: [Chrome]
 category: 浏览器
 draft: false
