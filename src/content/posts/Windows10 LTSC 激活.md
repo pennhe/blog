@@ -2,9 +2,7 @@
 title: Windows 10 LTSC KMS激活
 published: 2024-05-03
 description: This is the first post of my new Astro blog.
-tags: [Foo, Bar]
-category: Front-end
-draft: false
+tags: [Windows]
 ---
 
 ### Windows 10 LTSC KMS激活
