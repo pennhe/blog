@@ -1,11 +1,11 @@
 ---
 title: 浏览器设置黑色背景
-published: 2025-02-10
+published: 2024-05-03
 description: 浏览器设置黑色背景
-tags: [Chrome]
-category: 浏览器
+tags: [Windows]
+category: Windows
 draft: false
-lang: zh_CN      # 仅当文章语言与 `config.ts` 中的网站语言不同时需要设置
+lang: zh_CN
 ---
 
 1. 打开浏览器 输入地址

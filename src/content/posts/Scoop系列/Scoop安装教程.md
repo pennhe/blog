@@ -1,10 +1,11 @@
 ---
-title: Scoop安装教程
-published: 2024-05-31
-description: This is the first post of my new Astro blog.
-tags: [Foo, Bar]
-category: Front-end
+title: Scoop 安装教程
+published: 2025-02-08
+description: Scoop 安装教程
+tags: [Scoop, Windows]
+category: Scoop
 draft: false
+lang: zh_CN
 ---
 
 ## 安装Scoop

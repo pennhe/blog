@@ -1,9 +1,9 @@
 ---
-title: Scoop常用命令
+title: Scoop 常用命令
 published: 2025-02-08
 description: Scoop常用命令
 tags: [Scoop, Windows]
-category: Front-end
+category: Scoop
 draft: false
 lang: zh_CN
 ---

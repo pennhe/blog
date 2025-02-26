@@ -1,8 +1,11 @@
 ---
 title: Windows 10 LTSC KMS激活
 published: 2024-05-03
-description: This is the first post of my new Astro blog.
+description: Windows 10 LTSC KMS激活
 tags: [Windows]
+category: Windows
+draft: false
+lang: zh_CN
 ---
 
 ### Windows 10 LTSC KMS激活
